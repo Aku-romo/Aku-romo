@@ -19,7 +19,7 @@
 
 <!-- Automatyczne statystyki konta -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aku-romo&show_icons=true&theme=tokyonight&hide_border=true&title_color=99D9EA" alt="Water Bubble" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aku-romo&==true&theme=tokyonight&hide_border=true&title_color=99D9EA" alt="Water Bubble" />
 </p>
 
 
