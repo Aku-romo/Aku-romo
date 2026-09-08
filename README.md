@@ -12,6 +12,9 @@
 
 <h2 align="center"> </h2>
 
+<br>
+<br>
+
 <!-- Automatyczny licznik odwiedzin -->
 <p align="center">
   🫧 <img src="https://komarev.com/ghpvc/?username=Aku-romo&color=99d9ea&style=flat-square&label=Water_Bubbles" alt="a" /> 🫧
