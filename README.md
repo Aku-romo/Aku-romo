@@ -30,8 +30,7 @@
 <p align="center">
   <sub>$\color{#99D9EA}\textsf{\textit{Of five people, three must pay a price...}}$</sub>
 </p>
-<br>
-
+<br><hr style="border: none; border-top: 1px solid rgba(255, 255, 255, 0.2); width: 50%; margin: 20px auto;">
 
 
 
