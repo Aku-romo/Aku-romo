@@ -14,7 +14,7 @@
 
 <!-- Automatyczny licznik odwiedzin -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aku-romo&color=99d9ea&style=flat-square&label=Water bubbles" alt="Licznik odwiedzin" />
+  <img src="https://komarev.com/ghpvc/?username=Aku-romo&color=99d9ea&style=flat-square&label=Water bubbles" alt="WaTER BUVVLE" />
 </p>
 
 
