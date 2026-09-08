@@ -16,7 +16,7 @@
 
 <!-- Automatyczny licznik odwiedzin -->
 <p align="center">
- ⊹₊˚‧︵‿₊ 🫧 <img src="https://komarev.com/ghpvc/?username=Aku-romo&color=99d9ea&style=flat-square&label=Water_Bubbles" alt="a" />  🫧₊‿︵‧˚₊⊹
+ ⊹₊˚‧‿︵︵‿₊ 🫧 <img src="https://komarev.com/ghpvc/?username=Aku-romo&color=99d9ea&style=flat-square&label=Water_Bubbles" alt="a" />  🫧₊‿︵‿︵‧˚₊⊹
 </p>
 
 <br>
