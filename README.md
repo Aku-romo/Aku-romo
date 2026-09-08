@@ -2,7 +2,10 @@
   <b><i>,,I gave up the crown and shattered the laws of life, merely to hold you close..."</i></b>
 </p>
 <hr>
-<img width="735" height="495" alt="pobrane" src="https://github.com/user-attachments/assets/5978fe11-e46d-43c4-81e9-75f3bc3c3e95" />
+<p align="center">
+<img width="735" height="495" alt="pobrane" src="https://github.com/user-attachments/assets/6f9040a4-3fb1-424f-9d14-c77bc35280a5" />
+</p>
+
 
 <!--
 **Aku-romo/Aku-romo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
