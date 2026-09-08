@@ -1,5 +1,5 @@
 <p align="center">
-  $\color{#FFFFFF}\mathsf{\textbf{\textit{,,I gave up the crown and shattered the laws of life, merely to hold you close..."}}}$
+  <b><i>I gave up the crown and shattered the laws of life, merely to hold you close...</i></b>
 </p>
 <hr>
 <img width="735" height="495" alt="pobrane" src="https://github.com/user-attachments/assets/5978fe11-e46d-43c4-81e9-75f3bc3c3e95" />
