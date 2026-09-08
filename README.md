@@ -27,6 +27,11 @@
 
 <br> 
 
+<p align="center">
+  <sub><b><i>Of five people, three must pay a price...</i></b></sub>
+</p>
+<br>
+
 
 
 
