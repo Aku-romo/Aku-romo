@@ -18,6 +18,11 @@
   <img src="https://komarev.com/ghpvc/?username=Aku-romo&color=99d9ea&style=flat-square&label=Water_Bubbles" alt="a" />
 </p>
 
+<hr style="border: none; height: 1pt; background-color: #99D9EA;">
+
+<p align="center">
+  <sub>$\color{#99D9EA}\textsf{\textit{Of five people, three must pay a price...}}$</sub>
+</p>
 
 
 
