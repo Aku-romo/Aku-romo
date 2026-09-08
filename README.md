@@ -14,13 +14,10 @@
 
 <!-- Automatyczny licznik odwiedzin -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aku-romo&color=99d9ea&style=flat-square&label=Visits" alt="Water bubbles" />
+  <img src="https://komarev.com/ghpvc/?username=Aku-romo&color=99d9ea&style=flat-square&label=Water bubbles" />
 </p>
 
-<!-- Automatyczne statystyki konta -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aku-romo&show_icons=true&theme=tokyonight&hide_border=true&title_color=99D9EA" alt="Kebab" />
-</p>
+
  
 
 
