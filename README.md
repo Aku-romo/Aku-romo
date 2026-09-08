@@ -17,10 +17,7 @@
   <img src="https://komarev.com/ghpvc/?username=Aku-romo&color=99d9ea&style=flat-square&label=Visits" alt="Water bubbles" />
 </p>
 
-<!-- Automatyczne statystyki konta -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aku-romo&==true&theme=tokyonight&hide_border=true&title_color=99D9EA" alt="Water Bubble" />
-</p>
+
 
 
 
