@@ -10,7 +10,7 @@
 <img width="735" height="495" alt="pobrane" src="https://github.com/user-attachments/assets/6f9040a4-3fb1-424f-9d14-c77bc35280a5" style="border: 2px solid #4A90E2; border-radius: 8px; box-shadow: 0 0 15px #99D9EA; padding: 4px;">
 </p>
 
-<h2 align="center"> </h2>
+
 
 <br>
 <br>
