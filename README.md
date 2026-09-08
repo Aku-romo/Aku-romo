@@ -1,4 +1,4 @@
-## Hi there 👋
+## _"I gave up the crown and shattered the laws of life, merely to hold you close..."_
 
 <!--
 **Aku-romo/Aku-romo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
