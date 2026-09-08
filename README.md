@@ -2,7 +2,7 @@
 <p align="center">
   <b><i>,,I gave up the crown and shattered the laws of life, merely to hold you close..."</i></b>
 </p>
-
+<hr>
 <p align="center">
   <hr style="border: none; border-top: 1px solid rgba(255, 255, 255, 0.2);">
 </p>
