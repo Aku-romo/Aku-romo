@@ -1,4 +1,7 @@
-## _"I gave up the crown and shattered the laws of life, merely to hold you close..."_
+<p align="center">
+$\color{#4A90E2}\textsf{\textit{_"I gave up the crown and shattered the laws of life, merely to hold you close..."_}}$
+</p>
+<img width="735" height="495" alt="pobrane" src="https://github.com/user-attachments/assets/5978fe11-e46d-43c4-81e9-75f3bc3c3e95" />
 
 <!--
 **Aku-romo/Aku-romo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
