@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <hr style="border: none; height: 1pt; background-color: #99D9EA;">
+  <hr style="border: none; border-top: 1px solid rgba(255, 255, 255, 0.2);">
 </p>
 
 <p align="center">
